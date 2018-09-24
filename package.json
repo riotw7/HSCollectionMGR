@@ -1,0 +1,16 @@
+{
+  "name": "localhsserv",
+  "version": "1.0.0",
+  "description": "Test service",
+  "main": "server.js",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "RP",
+  "license": "CC0-1.0"
+}
